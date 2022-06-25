@@ -17,4 +17,5 @@ the following is a subspace of V?
 ● The set of pairs (a, 2a) for all real a
 ● The set of pairs (a, b) for all non-negative real a,b
 
+Answer: The set of pairs (a, b) for all real a ≥ b
 
